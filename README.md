@@ -12,7 +12,7 @@ The client supports both Windows and UNIX-based systems.
 
 ### Example
 
-$ ./http_client http://www.example.com:80/res/page1.php?user=bob#account
+$ ./http http://www.example.com:80/res/page1.php?user=bob#account
 
 ## How it Works
 
